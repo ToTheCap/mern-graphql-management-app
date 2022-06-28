@@ -8,6 +8,6 @@
 
 ### Backend
 
-- MongoDB as a main DB
+- MongoDB
 - used GraphQL and mongoose for API's logic
 - Express for Web Server
